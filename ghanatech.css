@@ -1,0 +1,31 @@
+/* body {
+    background-color:whitesmoke;
+  
+} */
+
+.container {
+    padding-top: 18px;
+    padding-bottom: 10px;
+    background-color: rgba(207,205,205);
+    width: 700px;
+}
+
+label {
+    display: block;
+    padding-bottom: 10px;
+}
+
+input [type = 'text']{
+    width: 94%;
+    padding: 10px;
+}
+
+textarea {
+    width: 100%;
+
+}
+
+select {
+    width: 95%;
+    padding:10px ;
+}
